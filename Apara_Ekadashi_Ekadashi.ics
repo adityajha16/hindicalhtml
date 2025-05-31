@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ekadashi Calendar//EN
+BEGIN:VEVENT
+UID:1748683249866@ekadashi-calendar.com
+DTSTAMP:20250531T092049Z
+DTSTART:20250605T231500Z
+DTEND:20250606T010000Z
+SUMMARY:Apara Ekadashi - Ekadashi Vrat
+DESCRIPTION:Removes sins and grants prosperity\n\nFasting Time: 04:45 - 06:30\n\nMay Lord Vishnu bless you on this sacred day.
+LOCATION:Home
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Apara Ekadashi Ekadashi Vrat begins in 1 hour
+END:VALARM
+END:VEVENT
+END:VCALENDAR

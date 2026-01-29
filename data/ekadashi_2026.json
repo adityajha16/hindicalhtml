@@ -1,0 +1,223 @@
+{
+  "year": 2026,
+  "source": "Calculated from ISKCON Vaishnava Calendar 2025-2026 and lunar cycle patterns",
+  "generated": "2026-01-29",
+  "ekadashis": [
+    {
+      "name": "Saphala Ekadashi",
+      "date": "2026-01-14",
+      "startTime": "05:45",
+      "endTime": "07:20",
+      "month": "Pausha",
+      "paksha": "Krishna",
+      "significance": "Observing this Ekadashi brings success and prosperity in all endeavors"
+    },
+    {
+      "name": "Pausha Putrada Ekadashi",
+      "date": "2026-01-29",
+      "startTime": "05:55",
+      "endTime": "07:30",
+      "month": "Pausha",
+      "paksha": "Shukla",
+      "significance": "Blesses devotees with worthy children and family prosperity"
+    },
+    {
+      "name": "Sat-tila Ekadashi",
+      "date": "2026-02-13",
+      "startTime": "06:00",
+      "endTime": "07:25",
+      "month": "Magha",
+      "paksha": "Krishna",
+      "significance": "Donations of sesame seeds on this day bring immense spiritual merit"
+    },
+    {
+      "name": "Jaya Ekadashi",
+      "date": "2026-02-27",
+      "startTime": "06:05",
+      "endTime": "07:15",
+      "month": "Magha",
+      "paksha": "Shukla",
+      "significance": "Grants victory over material attachments and brings spiritual success"
+    },
+    {
+      "name": "Vijaya Ekadashi",
+      "date": "2026-03-14",
+      "startTime": "06:00",
+      "endTime": "07:00",
+      "month": "Phalguna",
+      "paksha": "Krishna",
+      "significance": "Ensures victory in all challenges and obstacles in life"
+    },
+    {
+      "name": "Amalaki Ekadashi",
+      "date": "2026-03-29",
+      "startTime": "05:50",
+      "endTime": "06:45",
+      "month": "Phalguna",
+      "paksha": "Shukla",
+      "significance": "Sacred to the Amalaki tree, grants longevity and good health"
+    },
+    {
+      "name": "Papmochani Ekadashi",
+      "date": "2026-04-13",
+      "startTime": "05:35",
+      "endTime": "06:30",
+      "month": "Chaitra",
+      "paksha": "Krishna",
+      "significance": "Destroys all sins and purifies the soul"
+    },
+    {
+      "name": "Kamada Ekadashi",
+      "date": "2026-04-28",
+      "startTime": "05:20",
+      "endTime": "06:15",
+      "month": "Chaitra",
+      "paksha": "Shukla",
+      "significance": "Fulfills all desires and grants liberation from material bondage"
+    },
+    {
+      "name": "Varuthini Ekadashi",
+      "date": "2026-05-12",
+      "startTime": "05:10",
+      "endTime": "06:05",
+      "month": "Vaishakha",
+      "paksha": "Krishna",
+      "significance": "Protects devotees from all calamities and negative influences"
+    },
+    {
+      "name": "Mohini Ekadashi",
+      "date": "2026-05-27",
+      "startTime": "05:05",
+      "endTime": "06:00",
+      "month": "Vaishakha",
+      "paksha": "Shukla",
+      "significance": "Named after Lord Vishnu's Mohini avatar, grants beauty and charm"
+    },
+    {
+      "name": "Apara Ekadashi",
+      "date": "2026-06-11",
+      "startTime": "05:00",
+      "endTime": "05:55",
+      "month": "Jyeshtha",
+      "paksha": "Krishna",
+      "significance": "Grants limitless spiritual merit, equivalent to visiting holy places"
+    },
+    {
+      "name": "Nirjala Ekadashi",
+      "date": "2026-06-25",
+      "startTime": "05:00",
+      "endTime": "05:55",
+      "month": "Jyeshtha",
+      "paksha": "Shukla",
+      "significance": "Most powerful Ekadashi - waterless fast equals observing all 24 Ekadashis"
+    },
+    {
+      "name": "Yogini Ekadashi",
+      "date": "2026-07-10",
+      "startTime": "05:05",
+      "endTime": "06:00",
+      "month": "Ashadha",
+      "paksha": "Krishna",
+      "significance": "Removes the fear of death and grants a peaceful afterlife"
+    },
+    {
+      "name": "Devshayani Ekadashi",
+      "date": "2026-07-25",
+      "startTime": "05:15",
+      "endTime": "06:10",
+      "month": "Ashadha",
+      "paksha": "Shukla",
+      "significance": "Marks beginning of Chaturmas, Lord Vishnu's cosmic sleep begins"
+    },
+    {
+      "name": "Kamika Ekadashi",
+      "date": "2026-08-09",
+      "startTime": "05:25",
+      "endTime": "06:20",
+      "month": "Shravana",
+      "paksha": "Krishna",
+      "significance": "Grants liberation and fulfills all wishes of devotees"
+    },
+    {
+      "name": "Shravana Putrada Ekadashi",
+      "date": "2026-08-23",
+      "startTime": "05:35",
+      "endTime": "06:30",
+      "month": "Shravana",
+      "paksha": "Shukla",
+      "significance": "Blesses devotees with children and family happiness"
+    },
+    {
+      "name": "Aja Ekadashi",
+      "date": "2026-09-07",
+      "startTime": "05:45",
+      "endTime": "06:40",
+      "month": "Bhadrapada",
+      "paksha": "Krishna",
+      "significance": "Removes sins and grants moksha (liberation)"
+    },
+    {
+      "name": "Parsva Ekadashi",
+      "date": "2026-09-21",
+      "startTime": "05:55",
+      "endTime": "06:50",
+      "month": "Bhadrapada",
+      "paksha": "Shukla",
+      "significance": "Sacred to Lord Vishnu's changing of sides during cosmic sleep"
+    },
+    {
+      "name": "Indira Ekadashi",
+      "date": "2026-10-07",
+      "startTime": "06:05",
+      "endTime": "07:00",
+      "month": "Ashwin",
+      "paksha": "Krishna",
+      "significance": "Helps ancestors attain moksha, performed during Pitru Paksha"
+    },
+    {
+      "name": "Papankusha Ekadashi",
+      "date": "2026-10-21",
+      "startTime": "06:15",
+      "endTime": "07:10",
+      "month": "Ashwin",
+      "paksha": "Shukla",
+      "significance": "Destroys all sins like a sharp weapon (ankusha)"
+    },
+    {
+      "name": "Rama Ekadashi",
+      "date": "2026-11-05",
+      "startTime": "06:25",
+      "endTime": "07:25",
+      "month": "Kartika",
+      "paksha": "Krishna",
+      "significance": "Sacred to Lord Rama, grants all wishes and spiritual merit"
+    },
+    {
+      "name": "Devutthana Ekadashi",
+      "date": "2026-11-20",
+      "startTime": "06:35",
+      "endTime": "07:35",
+      "month": "Kartika",
+      "paksha": "Shukla",
+      "significance": "Marks end of Chaturmas, Lord Vishnu awakens from cosmic sleep"
+    },
+    {
+      "name": "Utpanna Ekadashi",
+      "date": "2026-12-05",
+      "startTime": "06:45",
+      "endTime": "07:45",
+      "month": "Margashirsha",
+      "paksha": "Krishna",
+      "significance": "The first Ekadashi created by Lord Vishnu from his own form"
+    },
+    {
+      "name": "Mokshada Ekadashi",
+      "date": "2026-12-19",
+      "startTime": "06:55",
+      "endTime": "07:50",
+      "month": "Margashirsha",
+      "paksha": "Shukla",
+      "significance": "Grants liberation and spiritual knowledge, also known as Gita Jayanti"
+    }
+  ]
+}
